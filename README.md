@@ -48,9 +48,8 @@ Aktivitas yang didukung AI:
 - Evaluasi dan Rekomendasi Strategis
 - Visualisasi Distribusi Sentimen
 
-## Visualisasi Contoh
-
-
+## Visualisasi 
+![visualisasi](https://github.com/user-attachments/assets/eabe18ef-841c-4cc6-a5dc-c120fed0e08d)
 
 
 
